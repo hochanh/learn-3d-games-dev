@@ -18,4 +18,4 @@
 ## Drawing
 
 - [x] Book: [Drawing on the Right Side of the Brain](https://www.amazon.com/dp/1585429201)
-- [x] Book: [Drawing on the Artist Within](https://www.amazon.com/dp/067163514X)
+- [ ] Book: [Drawing on the Artist Within](https://www.amazon.com/dp/067163514X)
