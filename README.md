@@ -14,8 +14,3 @@
 - [x] Book: [Unity in Action](https://www.amazon.com/dp/1617299332)
 - [ ] Book: [Learning C# by Developing Games with Unity 2021](https://www.amazon.com/dp/1801813949/)
 - [ ] Book: [Mind-Melding Unity and Blender for 3D Game Development](https://www.amazon.com/dp/1801071551/)
-
-## Drawing
-
-- [x] Book: [Drawing on the Right Side of the Brain](https://www.amazon.com/dp/1585429201)
-- [ ] Book: [Drawing on the Artist Within](https://www.amazon.com/dp/067163514X)
